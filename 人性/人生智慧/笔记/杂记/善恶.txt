@@ -1,7 +1,6 @@
 净资产 = 生产、增值
 负债   = 消费、贬值
 
-SavingsPool is chuxuchi
 
          ^
 	 |
