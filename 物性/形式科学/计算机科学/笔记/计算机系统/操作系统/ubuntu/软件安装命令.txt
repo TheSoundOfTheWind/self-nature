@@ -15,3 +15,9 @@ sudo apt install synergy
 配置客户端：
 1.输入服务器IP
 2.点击开始
+
+1.查看软件包(build-essential)的依赖关系
+apt-cache depends build-essential
+
+2. 重启网络
+sudo systemctl restart NetworkManager
